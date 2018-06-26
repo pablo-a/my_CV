@@ -38,7 +38,7 @@ sidebar:
     interests:
         - interest:
           item: Badminton (Competition, member of bureau of the club, in charge of competitors & website management)
-          link: 'https://badmintonparis18.gwiddle.co.uk/'
+          link: 
         - interest:
           item: Music (Guitare, music theory during 8 years formation)
           link:
@@ -144,14 +144,16 @@ skills:
           level: 80%
         - skill:
           name: Web (HTML, CSS, JS, NodeJS, PHP)
-          level: 60%
+          level: 70%
         - skill:
           name: Functionnal Programming (OCAML)
           level: 50%
         - skill:
-          name: Object Oriented Programming.
+          name: Object Oriented Programming
           level: 75%
-
+        - skill:
+          name: Swift (IOS)
+          level: 40%
 
 footer:
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
