@@ -6,7 +6,7 @@ sidebar:
     # Site Settings
     title: My Resume
     url: 'https://pablo-a.github.io/'
-    about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
     # Profile information
     name: Pablo Abril
@@ -37,7 +37,7 @@ sidebar:
           item: Badminton
           link: https://badmintonparis18.gwiddle.co.uk/
         - interest:
-          item: Music (Guitare & music theory: 8 years formation)
+          item: Music (Guitare, music theory: 8 years formation)
           link:
         - interest:
           item: Travel
