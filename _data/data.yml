@@ -57,14 +57,14 @@ experiences:
       time: October 2017 - April 2018
       link: 'http://www.q3-technology.com'
       company: Quantcube Technology
-      details: 'dolor ipsum'
+      details: "Data mining/Crawling. (Python) , begin learn setup Hadoop ecosytem. (HDFS, Kakfka, Amazon EC2, Amazon S3), Realtime Visualization Platform (HTML, CSS, JS, Python Flask, Web Sockets, Google Maps API), Task automatisation. (Unix, Python), Data architecture. (HDFS, MySQL), Smart Data Algorithm (Python pandas, numpy, matplotlib)"
 
     - experience:
       role: Software developer intern
       time: January 2017 - July 2017
       link: 'http://www.q3-technology.com'
       company: Quantcube Technology
-      details: 'dolor ipsum'
+      details: 'Extracting and managing data (Python - Scrapy, MySQL, Selenium, CRONTAB), Infrastructure (Amazon S3), Prepare data for machine learning (Python - NLTK - ScikitLearn)'
 
 studies:
     - education:
