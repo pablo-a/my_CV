@@ -69,7 +69,7 @@ studies:
     - education:
       degree: Computer Science (Architect in numeric technology)
       university: School 42 in Paris
-      link: "www.42.fr"
+      link: "http://www.42.fr"
       time: 2015 - 2018
       details: "42 is a brand new school opened in 2013 by Xavier Niel. Its purpose is to
       give 1000 thousands student a year a formation in computer science. Is is very general,
@@ -79,7 +79,7 @@ studies:
     - education:
       degree: Double Licence Mathematics & Computer science.
       university: Paris Diderot (Paris 7)
-      link: "www.42.fr"
+      link:
       time: 2014 - 2015
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
@@ -89,15 +89,14 @@ studies:
     - education:
       degree: Preparatory class for Engineer school (PCSI)
       university: Jacques Decour (75009)
-      link: "www.42.fr"
+      link:
       time: 2013 - 2014
       details: "Intensive Preparatory call for engineer school. We studied mainly Mathematics, Physics, Chemistry
       engineer science and computer science."
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: "Here are some projects i currently work or worked on."
 
     projects:
       - project:
