@@ -11,7 +11,7 @@ sidebar:
     # Profile information
     name: Pablo Abril
     tagline: Software Developer
-    pic: pabrilOK.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    pic: pabril.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: pabril@student.42.fr
