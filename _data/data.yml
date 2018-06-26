@@ -57,14 +57,18 @@ experiences:
       time: October 2017 - April 2018
       link: 'http://www.q3-technology.com'
       company: Quantcube Technology
-      details: "Data mining/Crawling. (Python) , begin learn setup Hadoop ecosytem. (HDFS, Kakfka, Amazon EC2, Amazon S3), Realtime Visualization Platform (HTML, CSS, JS, Python Flask, Web Sockets, Google Maps API), Task automatisation. (Unix, Python), Data architecture. (HDFS, MySQL), Smart Data Algorithm (Python pandas, numpy, matplotlib)"
+      details: "Data mining/Crawling. (Python) , begin learn setup Hadoop ecosytem.
+      (HDFS, Kakfka, Amazon EC2, Amazon S3), Realtime Visualization Platform (HTML, CSS, JS,
+      Python Flask, Web Sockets, Google Maps API), Task automatisation. (Unix, Python),
+      Data architecture. (HDFS, MySQL), Smart Data Algorithm (Python pandas, numpy, matplotlib)"
 
     - experience:
       role: Software developer intern
       time: January 2017 - July 2017
       link: 'http://www.q3-technology.com'
       company: Quantcube Technology
-      details: 'Extracting and managing data (Python - Scrapy, MySQL, Selenium, CRONTAB), Infrastructure (Amazon S3), Prepare data for machine learning (Python - NLTK - ScikitLearn)'
+      details: "Extracting and managing data (Python - Scrapy, MySQL, Selenium, CRONTAB),
+      Infrastructure (Amazon S3), Prepare data for machine learning (Python - NLTK - ScikitLearn)"
 
 studies:
     - education:
@@ -105,13 +109,9 @@ projects:
         link: "https://badmintonparis18.gwiddle.co.uk/"
         tagline: "A responsive website designed to replace our older blogger platform. I maintain it technically and am one of the current publishers."
       - project:
-        title: Unix universe
-        link: "#"
-        tagline: "I reimplemented some functions in C : malloc (learn about dynamic memory allocation, virtual memory management), nm & otool MACOS utilities (parsing of MACOS binary files, implies knowledge about macho-64 binary structure), also some initiation to assembly coding through recoding some of libc functions."
-      - project:
-        title: Algorithms
-        link: "https://github.com/pablo-a/"
-        tagline: ""
+        title: 42 projects
+        link: "https://github.com/pablo-a"
+        tagline: "The largest part of my project are on github, some being private, so if you want to see them don't hesitate to ask me."
 
 
 publications:
@@ -137,23 +137,20 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
+          name: Python (Flask, Scrapy, Selenium, data science libs)
+          level: 80%
         - skill:
-          name: Javascript & jQuery
-          level: 98%
+          name: Database (MySQL, MongoDB)
+          level: 80%
         - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
-          level: 85%
-        - skill:
-          name: Sketch & Photoshop
+          name: Web (HTML, CSS, JS, NodeJS, PHP)
           level: 60%
+        - skill:
+          name: Functionnal Programming (OCAML)
+          level: 50%
+        - skill:
+          name: Object Oriented Programming.
+          level: 75%
 
 
 footer:
