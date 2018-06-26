@@ -38,12 +38,12 @@ sidebar:
     interests:
         - interest:
           item: Badminton (Competition, member of bureau of the club, in charge of competitors & website management)
-          link: 
+          link:
         - interest:
           item: Music (Guitare, music theory during 8 years formation)
           link:
         - interest:
-          item: Travel
+          item: New Technology & IoT
           link:
 
 
@@ -78,7 +78,7 @@ studies:
       time: 2015 - 2018
       details: "42 is a brand new school opened in 2013 by Xavier Niel. Its purpose is to
       give 1000 thousands student a year a formation in computer science. Is is very general,
-      we study lots of domains : Unix universe, algorithms, graphics, web development, low level code,
+      we study lots of domains : Unix universe, algorithms, graphics, web development, App development, low level code,
       cryptography, network, sysadmin"
 
     - education:
@@ -86,10 +86,7 @@ studies:
       university: Paris Diderot (Paris 7)
       link:
       time: 2014 - 2015
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      details: "Second year of license in Mathematics & computer engineering."
 
     - education:
       degree: Preparatory class for Engineer school (PCSI)
@@ -154,6 +151,3 @@ skills:
         - skill:
           name: Swift (IOS)
           level: 40%
-
-footer:
-    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
