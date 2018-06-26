@@ -53,18 +53,16 @@ career-profile:
 
 experiences:
     - experience:
-        role: Software developer intern
-        time: January 2017 - July 2017
-        link: "http://www.q3-technology.com"
-        company: Quantcube Technology
-        details: 'dolor ipsum'
+      role: Software developer intern
+      time: January 2017 - July 2017
+      company: Quantcube Technology
+      details: 'dolor ipsum'
 
     - experience:
-        role: Software developer intern
-        time: October 2017 - April 2018
-        link: "http://www.q3-technology.com"
-        company: Quantcube Technology
-        details: 'dolor ipsum'
+      role: Software developer intern
+      time: October 2017 - April 2018
+      company: Quantcube Technology
+      details: 'dolor ipsum'
 
 studies:
     - education:
