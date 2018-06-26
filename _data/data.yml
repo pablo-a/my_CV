@@ -55,13 +55,13 @@ experiences:
     - experience:
         role: Software developer intern
         time: January 2017 - July 2017
-        link: 'http://www.q3-technology.com'
+        link: "http://www.q3-technology.com"
         company: Quantcube Technology
         details: 'dolor ipsum'
     - experience:
         role: Software developer intern
         time: October 2017 - April 2018
-        link: 'http://www.q3-technology.com'
+        link: "http://www.q3-technology.com"
         company: Quantcube Technology
         details: 'dolor ipsum'
 
@@ -79,7 +79,7 @@ studies:
     - education:
       degree: Double Licence Mathematics & Computer science.
       university: Paris Diderot (Paris 7)
-      link: 
+      link:
       time: 2014 - 2015
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
