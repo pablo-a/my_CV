@@ -41,16 +41,29 @@ sidebar:
           link: 'https://badmintonparis18.gwiddle.co.uk/'
         - interest:
           item: Music (Guitare, music theory during 8 years formation)
-          link: 'https://badmintonparis18.gwiddle.co.uk/'
+          link:
         - interest:
           item: Travel
-          link: 'https://badmintonparis18.gwiddle.co.uk/'
+          link:
 
 
 career-profile:
     title: Career Profile
-    text: 'Hi, im Pablo, a 23 years old student in computer engineering.'
+    text: 'Hi, i am Pablo, a 23 years old student in computer engineering.'
 
+experiences:
+    experience:
+        role: Software developer intern
+        time: January 2017 - July 2017
+        link: 'http://www.q3-technology.com'
+        company: Quantcube Technology
+        details: 'dolor ipsum'
+    experience:
+        role: Software developer intern
+        time: October 2017 - April 2018
+        link: 'http://www.q3-technology.com'
+        company: Quantcube Technology
+        details: 'dolor ipsum'
 
 studies:
     - education:
