@@ -17,7 +17,7 @@ sidebar:
     email: pabril@student.42.fr
     phone: 06 61 99 25 64
     website: blog.webjeda.com #do not add http://
-    linkedin: pablo-abril-040775102
+    linkedin: pablo-abril
     github: pablo-a
     twitter: '@webjeda'
 
@@ -30,9 +30,6 @@ sidebar:
           level: Professional
         - language:
           idiom: Spanish
-          level: Basics
-        - language:
-          idiom: German
           level: Basics
 
     interests:
