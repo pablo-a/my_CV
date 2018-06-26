@@ -6,7 +6,7 @@ sidebar:
     # Site Settings
     title: My Resume
     url: 'https://pablo-a.github.io/'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
     # Profile information
     name: Pablo Abril
@@ -17,7 +17,7 @@ sidebar:
     email: pabril@student.42.fr
     phone: 06 61 99 25 64
     website: pablo-a.github.io/ #do not add http://
-    linkedin: pablo-abril
+    linkedin: pablo-abril-040775102
     github: pablo-a
     #twitter: '@webjeda'
 
@@ -37,7 +37,7 @@ sidebar:
 
     interests:
         - interest:
-          item: Badminton
+          item: Badminton : Competition, member of bureau of the club, in charge of competitors & website management.
           link: https://badmintonparis18.gwiddle.co.uk/
         - interest:
           item: Music (Guitare, music theory during 8 years formation)
