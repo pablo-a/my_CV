@@ -11,7 +11,7 @@ sidebar:
     # Profile information
     name: Pablo Abril
     tagline: Software Developer
-    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    pic: pabril.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: pabril@student.42.fr
@@ -58,13 +58,13 @@ career-profile:
 
 studies:
     - education:
-      degree: Computer Science
+      degree: Computer Science (Architect in numeric technology)
       university: School 42 in Paris
       time: 2015 - 2018
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      details: "42 is a brand new school opened in 2013 by Xavier Niel. Its purpose is to
+      give 1000 thousands student a year a formation in computer science. Is is very general,
+      we study lots of domains : Unix universe, algorithms, graphics, web development, low level code,
+      cryptography, network, sysadmin"
 
     - education:
       degree: Double Licence Mathematics & Computer science.
