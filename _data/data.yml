@@ -52,13 +52,13 @@ career-profile:
     text: 'Hi, i am Pablo, a 23 years old student in computer engineering.'
 
 experiences:
-    experience:
+    - experience:
         role: Software developer intern
         time: January 2017 - July 2017
         link: 'http://www.q3-technology.com'
         company: Quantcube Technology
         details: 'dolor ipsum'
-    experience:
+    - experience:
         role: Software developer intern
         time: October 2017 - April 2018
         link: 'http://www.q3-technology.com'
