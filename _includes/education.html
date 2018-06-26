@@ -4,17 +4,17 @@
         <h2 class="section-title"><i class="fa fa-graduation-cap"></i>Education</h2>
         {% for education in site.data.data.studies %}
           <div class="item">
-          
+
             <div class="meta">
-            
+
               <div class="upper-row">
                 <h3 class="degree">{{ education.degree }}</h3>
                 <div class="time">{{ education.time }}</div>
               </div><!--//upper-row-->
-              
-              <div class="university">{{ education.university }}</div>
+
+              <div class="university"><a href={{ education.link }} >{{ education.university }}</a></div>
             </div><!--//meta-->
-            
+
             {% if education.details %}
             <div class="details">
               <p>{{ education.details }}</p>
@@ -22,7 +22,7 @@
             {% endif %}
           </div><!--//item-->
         {% endfor %}
-        
+
         </section><!--//section-->
     {% else %}
         <div class="education-container container-block">
