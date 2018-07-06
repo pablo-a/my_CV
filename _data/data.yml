@@ -146,8 +146,8 @@ skills:
           name: Functionnal Programming (OCAML)
           level: 50%
         - skill:
-          name: Object Oriented Programming
-          level: 75%
+          name: C programming
+          level: 85%
         - skill:
           name: Swift (IOS)
           level: 40%
