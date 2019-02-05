@@ -43,24 +43,34 @@ sidebar:
           item: Music (Guitare, music theory during 8 years formation)
           link:
         - interest:
-          item: New Technology & IoT
+          item: New Technologies
           link:
 
 
 career-profile:
     title: Career Profile
-    text: 'Hi, i am Pablo, a 23 years old student in computer engineering. I am looking at the moment for a part time contract (2/3 days a week). Do not hesitate to contact me by any means (mail, linkedin, phone). '
+    text: 'Hi, i am Pablo, a 23 years old student in software engineering. I am looking at the moment for a open ended contract in order to validate my school degree. Do not hesitate to contact me by any means (mail, linkedin, phone). '
 
 experiences:
+
+    - experience:
+      role: R&D Intern @Lab42
+      time: September 2018 - March 2019
+      link: 'https://secure.fr.vente-privee.com/authentication/Portal/FR'
+      company: Vente-Privee
+      details: "Worked on 2 project during 3 months each.
+      Iot Pipeline : Data Pipeline for an iot flotilla in order to have connected warehouses (Mainflux, NodeJs, Vuejs)
+      RISE: Search Engine (Golang, GRPC, data structures & algorithms)"
+
     - experience:
       role: Software developer
       time: October 2017 - April 2018
       link: 'http://www.q3-technology.com'
       company: Quantcube Technology
-      details: "Data mining/Crawling. (Python) , begin learn setup Hadoop ecosytem.
-      (HDFS, Kakfka, Amazon EC2, Amazon S3), Realtime Visualization Platform (HTML, CSS, JS,
-      Python Flask, Web Sockets, Google Maps API), Task automatisation. (Unix, Python),
-      Data architecture. (HDFS, MySQL), Smart Data Algorithm (Python pandas, numpy, matplotlib)"
+      details: "Data mining/Crawling with Python.
+      Velib Realtime Visualization Platform (HTML, CSS, JS, Python Flask, Web Sockets, Google Maps API).
+      Task automatisation. (Unix, Python),
+      DSmart Data computations (Python pandas, numpy, matplotlib)"
 
     - experience:
       role: Software developer intern
@@ -108,7 +118,7 @@ projects:
       - project:
         title: 42 projects
         link: "https://github.com/pablo-a"
-        tagline: "The largest part of my project are on github, some being private, so if you want to see them don't hesitate to ask me."
+        tagline: "The largest part of my project are on github, the majority being private, so if you want to see them don't hesitate to ask me."
 
 
 publications:
@@ -140,14 +150,17 @@ skills:
           name: Database (MySQL, MongoDB)
           level: 80%
         - skill:
-          name: Web (HTML, CSS, JS, NodeJS, PHP)
-          level: 70%
+          name: Web Back (NodeJS, Flask)
+          level: 60%
         - skill:
-          name: Functionnal Programming (OCAML)
+          name: Web Front (VueJS, HTML, CSS)
+          level: 60%
+        - skill:
+          name: Functionnal Programming (OCAML, interested in learning Rust)
           level: 50%
         - skill:
-          name: C programming
-          level: 85%
+          name: Low level programming (comfortable with C, eager to learn Golang)
+          level: 80%
         - skill:
           name: Swift (IOS)
           level: 40%
