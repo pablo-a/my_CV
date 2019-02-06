@@ -52,7 +52,6 @@ career-profile:
     text: 'Hi, i am Pablo, a 23 years old student in software engineering. I am looking at the moment for a open ended contract in order to validate my school degree. Do not hesitate to contact me by any means (mail, linkedin, phone). '
 
 experiences:
-
     - experience:
       role: R&D Intern @Lab42
       time: September 2018 - March 2019
@@ -70,7 +69,7 @@ experiences:
       details: "Data mining/Crawling with Python.
       Velib Realtime Visualization Platform (HTML, CSS, JS, Python Flask, Web Sockets, Google Maps API).
       Task automatisation. (Unix, Python),
-      DSmart Data computations (Python pandas, numpy, matplotlib)"
+      Smart Data computations (Python pandas, numpy, matplotlib)"
 
     - experience:
       role: Software developer intern
@@ -144,13 +143,13 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python (Flask, Scrapy, Selenium, data science libs)
+          name: Python (Scrapy, Selenium, data science libs)
           level: 80%
         - skill:
-          name: Database (MySQL, MongoDB)
-          level: 80%
+          name: Database (MySQL, few MongoDB)
+          level: 70%
         - skill:
-          name: Web Back (NodeJS, Flask)
+          name: Web Back (NodeJS)
           level: 60%
         - skill:
           name: Web Front (VueJS, HTML, CSS)
