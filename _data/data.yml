@@ -11,7 +11,7 @@ sidebar:
     # Profile information
     name: Pablo Abril
     tagline: Software Developer
-    pic: pabril.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    pic: pablo-2022.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: pabril@student.42.fr
@@ -49,12 +49,15 @@ career-profile:
 
 experiences:
     - experience:
-      role: Software developer
-      time: January 2017 - July 2017
-      link: 'http://www.q3-technology.com'
-      company: Quantcube Technology
-      details: "Extracting and managing data (Python - Scrapy, MySQL, Selenium, CRONTAB),
-      Infrastructure (Amazon S3), Prepare data for machine learning (Python - NLTK - ScikitLearn)"
+      role: Software Developer
+      time: April 2019 - Now
+      link: 'https://cybelangel.com'
+      company: CybelAngel
+      details: "FullStack developer in the Platform Web team, I am in charge of developing, creating, enhancing the multiple projects we are working on.
+                - Front : VueJS, HTML, CSS/SCSS
+                - Back : Python, Flask
+                - DB : MongoDB, ElasticSearch
+                - misc : docker, git, gitlab CI, K8S, some R&D projects"
 
     - experience:
       role: R&D Intern @Lab42
@@ -66,7 +69,7 @@ experiences:
       RISE: Search Engine (Golang, GRPC, data structures & algorithms)"
 
     - experience:
-      role: Software developer
+      role: Software Developer
       time: October 2017 - April 2018
       link: 'http://www.q3-technology.com'
       company: Quantcube Technology
@@ -76,7 +79,7 @@ experiences:
       Smart Data computations (Python pandas, numpy, matplotlib)"
 
     - experience:
-      role: Software developer Intern
+      role: Software Developer Intern
       time: January 2017 - July 2017
       link: 'http://www.q3-technology.com'
       company: Quantcube Technology
