@@ -19,7 +19,6 @@ sidebar:
     website: pablo-a.github.io/ #do not add http://
     linkedin: pablo-abril-040775102
     github: pablo-a
-    #twitter: '@webjeda'
 
     languages:
         - language:
@@ -40,18 +39,23 @@ sidebar:
           item: Badminton (Competition, member of bureau of the club, in charge of competitors & website management)
           link:
         - interest:
-          item: Music (Guitare, music theory during 8 years formation)
-          link:
-        - interest:
-          item: New Technologies
+          item: Music (Guitare, music theory during 8 years formation, Singing, Trumpet)
           link:
 
 
 career-profile:
     title: Career Profile
-    text: 'Hi, i am Pablo, a 23 years old student in software engineering. I am looking at the moment for a open ended contract in order to validate my school degree. Do not hesitate to contact me by any means (mail, linkedin, phone). '
+    text: 'Hi, i am Pablo, a 27 years old software engineer. I am looking at the moment for a open ended contract as a Backend Engineer. Do not hesitate to contact me by any means (mail, linkedin, phone). '
 
 experiences:
+    - experience:
+      role: Software developer
+      time: January 2017 - July 2017
+      link: 'http://www.q3-technology.com'
+      company: Quantcube Technology
+      details: "Extracting and managing data (Python - Scrapy, MySQL, Selenium, CRONTAB),
+      Infrastructure (Amazon S3), Prepare data for machine learning (Python - NLTK - ScikitLearn)"
+
     - experience:
       role: R&D Intern @Lab42
       time: September 2018 - March 2019
@@ -72,7 +76,7 @@ experiences:
       Smart Data computations (Python pandas, numpy, matplotlib)"
 
     - experience:
-      role: Software developer intern
+      role: Software developer Intern
       time: January 2017 - July 2017
       link: 'http://www.q3-technology.com'
       company: Quantcube Technology
@@ -112,12 +116,8 @@ projects:
     projects:
       - project:
         title: My badminton club website
-        link: "https://badmintonparis18.gwiddle.co.uk/"
+        link: "https://badmintonparis18.fr"
         tagline: "A responsive website designed to replace our older blogger platform. I maintain it technically and am one of the current publishers."
-      - project:
-        title: 42 projects
-        link: "https://github.com/pablo-a"
-        tagline: "The largest part of my project are on github, the majority being private, so if you want to see them don't hesitate to ask me."
 
 
 publications:
@@ -143,23 +143,23 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python (Scrapy, Selenium, data science libs)
+          name: Python3 (Flask & common libs)
           level: 80%
         - skill:
-          name: Database (MySQL, few MongoDB)
+          name: Web Front (VueJS/VueX, HTML, CSS/SCSS)
           level: 70%
         - skill:
-          name: Web Back (NodeJS)
-          level: 60%
+          name: Web Back (Golang, NodeJS)
+          level: 40%
         - skill:
-          name: Web Front (VueJS, HTML, CSS)
-          level: 60%
+          name: Database (Mongom, MySQL, Elastic)
+          level: 65%
         - skill:
           name: Functionnal Programming (OCAML, interested in learning Rust)
           level: 50%
         - skill:
-          name: Low level programming (comfortable with C, eager to learn Golang)
-          level: 80%
+          name: Low level programming (C, Assembly)
+          level: 60%
         - skill:
           name: Swift (IOS)
           level: 40%
