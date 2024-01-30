@@ -39,18 +39,30 @@ sidebar:
           item: Badminton (Competition, member of bureau of the club, in charge of competitors & website management)
           link:
         - interest:
-          item: Music (Guitare, music theory during 8 years formation, Singing, Trumpet)
+          item: Music (Guitare, music theory during 8 years formation, Singing, production)
           link:
 
 
 career-profile:
     title: Career Profile
-    text: 'Hi, i am Pablo, a 27 years old software developer. I am looking at the moment for a open ended contract as a Backend Engineer. Do not hesitate to contact me by any means (mail, linkedin, phone). '
+    text: 'Hi, i am Pablo, a 28 years old software developer. I am open to opportunities at the moment for opportunities as backend developer or fulltstack. Do not hesitate to contact me by any means (mail, linkedin, phone). '
 
 experiences:
     - experience:
-      role: Software Developer
-      time: April 2019 - Now
+      role: Backend Developer
+      time: Octobre 2022 - Now
+      link: 'https://www.deepki.com'
+      company: Deepki
+      details: "Deepki aims to impact the planet through virtuous real estate. As a backend engineer, i'm in charge of developing and maintaining the collect framework that allows us to automatically retrieve data from energy distributor all around the planet.
+                The main challenges were to produce new features as well as maintaining a fast and robust data collection framework. It also included lot of web development in order to give a web app for internal tooling purposes.
+                - Back : Python, Flask, RQ, RabbitMQ
+                - Front : VueJS, HTML, CSS/SCSS
+                - DB : MongoDB, InfluxDB, Redis
+                - misc : docker, git, gitlab, terraform"
+
+    - experience:
+      role: Software fullstack developer
+      time: April 2019 - September 2022
       link: 'https://cybelangel.com'
       company: CybelAngel
       details: "FullStack developer in the Platform Web team, I am in charge of developing, creating, enhancing the multiple projects we are working on.
@@ -74,7 +86,7 @@ experiences:
       link: 'http://www.q3-technology.com'
       company: Quantcube Technology
       details: "Data mining/Crawling with Python.
-      Velib Realtime Visualization Platform (HTML, CSS, JS, Python Flask, Web Sockets, Google Maps API).
+      Velib' Realtime Visualization Platform (HTML, CSS, JS, Python Flask, Web Sockets, Google Maps API).
       Task automatisation. (Unix, Python),
       Smart Data computations (Python pandas, numpy, matplotlib)"
 
@@ -146,7 +158,7 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python3 (Flask & common libs)
+          name: Python (Flask & common libs)
           level: 80%
         - skill:
           name: Web Front (VueJS/VueX, HTML, CSS/SCSS)
@@ -162,7 +174,7 @@ skills:
           level: 50%
         - skill:
           name: Low level programming (C, Assembly)
-          level: 60%
+          level: 50%
         - skill:
           name: Swift (IOS)
           level: 40%
