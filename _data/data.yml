@@ -55,7 +55,7 @@ experiences:
       company: Deepki
       details: "Deepki aims to impact the planet through virtuous real estate. As a backend engineer, i'm in charge of developing and maintaining the collect framework that allows us to automatically retrieve data from energy distributor all around the planet.
                 The main challenges are to produce new features as well as maintaining a fast and robust data collection framework. It also included lot of web development in order to give a web app for internal tooling purposes. In addition, i took a role of 'technical manager'
-                where i intend to understand the developers main pain points, imagine solutions to those problems and lead those inter team topics 
+                where i intend to understand the developers main pain points, imagine solutions to those problems and lead those inter team topics\n
                 - Back : Python3, Flask/FastAPI, RQ, RabbitMQ
                 - Front : VueJS, HTML, CSS/SCSS
                 - DB : MongoDB, InfluxDB, Redis
@@ -138,21 +138,12 @@ projects:
 
 publications:
     title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: "Here are some publications i made"
 
     publications:
       - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        title: Pydantic, la révolution de Python (https://techblog.deepki.com/pydantic-aka-le-gamechanger/)
+        authors: Pablo Abril
 
 
 skills:
