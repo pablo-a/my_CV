@@ -138,11 +138,10 @@ projects:
 
 publications:
     title: Publications
-    intro: "Here are some publications i made"
 
     publications:
-      - paper:
-        title: Pydantic, la révolution de Python (https://techblog.deepki.com/pydantic-aka-le-gamechanger/)
+      - title: Pydantic, la révolution de Python
+        link: "https://techblog.deepki.com/pydantic-aka-le-gamechanger/"
         authors: Pablo Abril
 
 
