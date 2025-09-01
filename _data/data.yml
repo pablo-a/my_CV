@@ -55,11 +55,11 @@ experiences:
       company: Deepki
       details: "Deepki aims to impact the planet through virtuous real estate. As a backend engineer, i'm in charge of developing and maintaining the collect framework that allows us to automatically retrieve data from energy distributor all around the planet.
                 The main challenges are to produce new features as well as maintaining a fast and robust data collection framework. It also included lot of web development in order to give a web app for internal tooling purposes. In addition, i took a role of 'technical manager'
-                where i intend to understand the developers main pain points, imagine solutions to those problems and lead those inter team topics\n
-                - Back : Python3, Flask/FastAPI, RQ, RabbitMQ
-                - Front : VueJS, HTML, CSS/SCSS
-                - DB : MongoDB, InfluxDB, Redis
-                - OPS : docker, git, gitlab, terraform"
+                where i intend to understand the developers main pain points, imagine solutions to those problems and lead those inter team topics.
+                Backend : Python3, Flask/FastAPI, RQ, RabbitMQ.
+                Frontend : VueJS, HTML, CSS/SCSS.
+                Databases: MongoDB, InfluxDB, Redis.
+                OPS : docker, git, gitlab, terraform."
 
     - experience:
       role: Software fullstack developer
@@ -67,10 +67,10 @@ experiences:
       link: 'https://cybelangel.com'
       company: CybelAngel
       details: "FullStack developer in the Platform Web team, I am in charge of developing, creating, enhancing the multiple projects we are working on.
-                - Front : VueJS, HTML, CSS/SCSS
-                - Back : Python, Flask
-                - DB : MongoDB, ElasticSearch
-                - misc : docker, git, gitlab CI, K8S, some R&D projects"
+                Backend : Python3, Flask.
+                Frontend : VueJS, HTML, CSS/SCSS.
+                Databases : MongoDB, ElasticSearch.
+                misc : docker, git, gitlab CI, K8S, some R&D projects."
 
     - experience:
       role: R&D Intern @Lab42
@@ -78,8 +78,8 @@ experiences:
       link: 'https://secure.fr.vente-privee.com/authentication/Portal/FR'
       company: Vente-Privee
       details: "Worked on 2 project during 3 months each.
-      Iot Pipeline : Data Pipeline for an iot flotilla in order to have connected warehouses (Mainflux, NodeJs, Vuejs)
-      RISE: Search Engine (Golang, GRPC, data structures & algorithms)"
+        Iot Pipeline : Data Pipeline for an iot flotilla in order to have connected warehouses (Mainflux, NodeJs, Vuejs)
+        RISE: Search Engine (Golang, GRPC, data structures & algorithms)"
 
     - experience:
       role: Software Developer
@@ -87,9 +87,9 @@ experiences:
       link: 'http://www.q3-technology.com'
       company: Quantcube Technology
       details: "Data mining/Crawling with Python.
-      Velib' Realtime Visualization Platform (HTML, CSS, JS, Python Flask, Web Sockets, Google Maps API).
-      Task automatisation. (Unix, Python),
-      Smart Data computations (Python pandas, numpy, matplotlib)"
+        Velib' Realtime Visualization Platform (HTML, CSS, JS, Python Flask, Web Sockets, Google Maps API).
+        Task automatisation. (Unix, Python),
+        Smart Data computations (Python pandas, numpy, matplotlib)"
 
     - experience:
       role: Software Developer Intern
@@ -97,7 +97,7 @@ experiences:
       link: 'http://www.q3-technology.com'
       company: Quantcube Technology
       details: "Extracting and managing data (Python - Scrapy, MySQL, Selenium, CRONTAB),
-      Infrastructure (Amazon S3), Prepare data for machine learning (Python - NLTK - ScikitLearn)"
+        Infrastructure (Amazon S3), Prepare data for machine learning (Python - NLTK - ScikitLearn)"
 
 studies:
     - education:
@@ -106,9 +106,9 @@ studies:
       link: "http://www.42.fr"
       time: 2015 - 2018
       details: "42 is a brand new school opened in 2013 by Xavier Niel. Its purpose is to
-      give 1000 thousands student a year a formation in computer science. Is is very general,
-      we study lots of domains : Unix universe, algorithms, graphics, web development, App development, low level code,
-      cryptography, network, sysadmin"
+        give 1000 thousands student a year a formation in computer science. Is is very general,
+        we study lots of domains : Unix universe, algorithms, graphics, web development, App development, low level code,
+        cryptography, network, sysadmin"
 
     - education:
       degree: Double Licence Mathematics & Computer science.
@@ -123,7 +123,7 @@ studies:
       link:
       time: 2013 - 2014
       details: "Intensive Preparatory call for engineer school. We studied mainly Mathematics, Physics, Chemistry
-      engineer science and computer science."
+        engineer science and computer science."
 
 projects:
     title: Projects
@@ -142,7 +142,7 @@ publications:
     publications:
       - title: Pydantic, la révolution de Python
         link: "https://techblog.deepki.com/pydantic-aka-le-gamechanger/"
-        authors: Pablo Abril
+        authors: by Pablo Abril on Deepki techblog
 
 
 skills:
